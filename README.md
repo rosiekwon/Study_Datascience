@@ -32,7 +32,7 @@
   * k-means clustering
     1. choose the num of clusters [The elbow method]
       * minimize the distance between points in a cluster (low WCSS within-cluster sum of squares)
-        ''' kmeans.inertia_'''
+        <br> kmeans.inertia_</br>
     2. specify the cluster seeds
     3. assign each point to a centroid
     4. adjust the centroids
