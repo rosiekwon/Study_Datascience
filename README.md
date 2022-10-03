@@ -27,7 +27,7 @@
 ## 4. k-means clustering
 * multivariate statistical technique that groups observations on the basis some of their features or variables they are described by
 
-* → maximize the similarity of observations within a cluster and maximize the dissimilarity between clusters
+→ maximize the similarity of observations within a cluster and maximize the dissimilarity between clusters
 
     1. choose the num of clusters [The elbow method]
       * minimize the distance between points in a cluster (low WCSS within-cluster sum of squares)
