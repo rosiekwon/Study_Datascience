@@ -62,9 +62,9 @@
 
 two types: **loss** (supervised learning) 
 
-                        - The lower the loss function, the higher the level of accuracy of the model
+    + The lower the loss function, the higher the level of accuracy of the model
 
              **reward** (reinforcement learning)
 
-                  - The higher the reward function, the higher the level of accuracy of the model
+    + The higher the reward function, the higher the level of accuracy of the model
 
