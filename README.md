@@ -54,5 +54,17 @@
     
 ## 6. Basic Neural Network 
 
-$$ Data - Model - Objective function - Optimization algorithm $$
+'Data - Model - Objective function - Optimization algorithm'
+
+* The objective function 
+
+: a measure of how well our model’s outputs match the targets.
+
+two types: **loss** (supervised learning) 
+
+                        - The lower the loss function, the higher the level of accuracy of the model
+
+             **reward** (reinforcement learning)
+
+                  - The higher the reward function, the higher the level of accuracy of the model
 
