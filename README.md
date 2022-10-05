@@ -60,11 +60,12 @@
 
 : a measure of how well our model’s outputs match the targets.
 
-two types: **loss** (supervised learning) 
+two types
+1. **loss** (supervised learning) 
 
     + The lower the loss function, the higher the level of accuracy of the model
 
-             **reward** (reinforcement learning)
+2. **reward** (reinforcement learning)
 
     + The higher the reward function, the higher the level of accuracy of the model
 
