@@ -52,3 +52,7 @@
 
 2. Computational expensive
     
+## 6. Basic Neural Network 
+
+$$ Data - Model - Objective function - Optimization algorithm $$
+
